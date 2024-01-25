@@ -6,3 +6,5 @@ Please read me.  I contain important information.
 Another line added
 
 Thsi line is added because of Feature01
+
+Oh I need to add this line as part of Feature02
