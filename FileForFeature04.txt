@@ -1,3 +1,0 @@
-Implementation of Feature04.
-
-Forgot to add this.
