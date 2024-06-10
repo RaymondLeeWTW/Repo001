@@ -1,6 +1,9 @@
 Implementation  of Feature03
 
+
 =======================================
 
 Enhancement of Feature03 for Version 25
 Implemented on 6/10/2024
+
+Correct fix for the bug that was found during 2.4 UAT.  This fix is not the same as the fix in 2.4
