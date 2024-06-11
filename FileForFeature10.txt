@@ -1,1 +1,3 @@
 Work for feature 10
+
+Fixed a bug on Feature10 that was found in production in version 2.4
