@@ -40,6 +40,7 @@ This line is added at 2:30 p.m. on 3/27/2024.
 
 4/17/2024: Added this line for Feature16
 
-6/11/2024: Enhanced Feature10 for Version 2.5.
+6/11/2024: Enhanced Feature10 for Version 2.5.  Also fixed the production bug found in 2.4
+
 
 
