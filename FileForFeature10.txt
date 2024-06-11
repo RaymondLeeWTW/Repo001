@@ -1,3 +1,8 @@
 Work for feature 10
 
-Fixed a bug on Feature10 that was found in production in version 2.4
+
+
+Enhancement on Feature10.  This is for Version 2.5
+
+
+Correct fix for the production bug in trunk
