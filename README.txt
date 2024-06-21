@@ -49,5 +49,10 @@ Fixed Bug found on Feature 13 on 6/19/2024
 Fixed Bug found on Feature08 on 6/21/2024
 
 
+6/21/2024: Fixed a bug found in Feature14 in Release 1.0.  We need the same fix in both main and Release 1.0
+
+
+
+
 
 
