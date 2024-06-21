@@ -46,6 +46,8 @@ This line is added at 2:30 p.m. on 3/27/2024.
 
 Fixed Bug found on Feature 13 on 6/19/2024
 
+Fixed Bug found on Feature08 on 6/21/2024
+
 
 
 
