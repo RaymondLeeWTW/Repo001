@@ -50,5 +50,10 @@ Added this line for Feature17
 
 6/21/2024: Merged Feature08 into Feature09.  Got rid of Feature08
 
+6/21/2024: Fixed a bug found in Feature14 in Release 1.0.  We need the same fix in both main and Release 1.0
+
+
+
+
 
 
