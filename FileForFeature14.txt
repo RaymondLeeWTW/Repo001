@@ -1,1 +1,3 @@
 Implemented code changes for feature 14
+
+Fixed bug found in releaes 1.0
