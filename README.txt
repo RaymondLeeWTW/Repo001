@@ -48,5 +48,7 @@ Release/1.0 branch was created on 6/19/2024.  We began working on Release 2.0
 
 Added this line for Feature17
 
+6/21/2024: Fixed a bug found in Feature14 in Release 1.0.  We need the same fix in both main and Release 1.0
+
 
 
