@@ -42,7 +42,11 @@ This line is added at 2:30 p.m. on 3/27/2024.
 
 6/11/2024: Enhanced Feature10 for Version 2.5.  Also fixed the production bug found in 2.4
 
-===============================================================================
+
+Fixed Bug found on Feature 13 on 6/19/2024
+
+Fixed Bug found on Feature08 on 6/21/2024
+
 
 Release/1.0 branch was created on 6/19/2024.  We began working on Release 2.0
 
